@@ -1,1 +1,3 @@
+manager: Melody
+
 members: Yang, Chae
