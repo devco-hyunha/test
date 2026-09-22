@@ -1,3 +1,5 @@
 manager: Melody
 
 members: Yang, Chae
+
+friend: Pochaco
